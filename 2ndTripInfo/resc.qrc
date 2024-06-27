@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>dis-removebg-preview.png</file>
+        <file>from.png</file>
+        <file>to.png</file>
+        <file>images-imageonline.co-2508766-removebg-preview.png</file>
+        <file>distance.png</file>
+        <file>time-removebg-preview.png</file>
+        <file>timeee-removebg-preview.png</file>
+        <file>spedd-removebg-preview.png</file>
+        <file>sp-removebg-preview.png</file>
+        <file>fuell-imageonline.co-9930331-removebg-preview (1).png</file>
+        <file>frommmm.png</file>
+    </qresource>
+</RCC>
